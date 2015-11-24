@@ -21,7 +21,7 @@
         ]
       }
     ],
-    "dest": "JeallynDemo1"
+    "dest": "JeallynDemo1",
     "template": "op.html"
   }
 }
