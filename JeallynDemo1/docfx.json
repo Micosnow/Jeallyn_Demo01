@@ -22,5 +22,6 @@
       }
     ],
     "dest": "JeallynDemo1"
+    "template": "op.html"
   }
 }
